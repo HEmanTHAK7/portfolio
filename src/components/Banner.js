@@ -65,7 +65,7 @@ const Banner = () => {
         initial="hidden" whileInView={'show'} 
         viewport={{once:false,amount:0.7}}
         className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0'>
-            <a href="https://github.com/HEmanTHAK7">
+            <a href="https://github.com/h3manth-ak">
               <FaGithub className='text-3xl' />
             </a>
             <a href="https://www.linkedin.com/in/hemanth-a-k-a43a96207">

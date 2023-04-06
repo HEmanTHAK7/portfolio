@@ -24,7 +24,7 @@ const Work = () => {
             <p className='max-w-sm mb-16'>Hi👋,here are a few of the works I've completed. Many more are
              still in the development stage, and I'll be providing the
               source code so you may explore them. I believe you'll enjoy these </p>
-              <a href="https://github.com/HEmanTHAK7?tab=repositories">
+              <a href="https://github.com/h3manth-ak?tab=repositories">
             <button className='btn btn-sm'>view all projects</button>
 
               </a>
@@ -38,7 +38,7 @@ const Work = () => {
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
               <span className='text-gradient '>
 
-              <a href="https://github.com/HEmanTHAK7/BlogApp">BLOG APP</a> 
+              <a href="https://github.com/h3manth-ak/BlogApp">BLOG APP</a> 
               </span>
               </div>
             {/* title */}
@@ -63,7 +63,7 @@ const Work = () => {
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
               <span className='text-gradient '>
 
-              <a href="https://github.com/HEmanTHAK7/imageResizer">PERSONAL PORTFOLIO</a> 
+              <a href="https://github.com/h3manth-ak/imageResizer">PERSONAL PORTFOLIO</a> 
               
               </span>
               </div>
@@ -84,7 +84,7 @@ const Work = () => {
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
               <span className='text-gradient '>
 
-              <a href="https://github.com/HEmanTHAK7/imageResizer"> IMAGE RESIZER</a> 
+              <a href="https://github.com/h3manth-ak/imageResizer"> IMAGE RESIZER</a> 
               </span>
               </div>
             {/* title */}
