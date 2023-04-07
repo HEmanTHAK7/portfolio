@@ -46,7 +46,7 @@ const About = () => {
           <h2 className='mt-3 text-[35px] font-bold mb-4'>Skills</h2>
           <div className=' sm:flex gap-x-6 lg:gap-x-10 mb-12 '>
             <div className='mb-4' >
-            <div className='font-primary text-sm tracking-[2px] mb-2 '>
+            <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Python <br />
               </div>
               <div className='text-[40px] font-tertiary text-gradient '>
@@ -54,7 +54,7 @@ const About = () => {
               </div>                    
             </div>
             <div className='mb-4'>
-            <div className='font-primary text-sm tracking-[2px] mb-2 '>
+            <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Front End <br />
               </div>
               <div className='text-[40px] font-tertiary text-gradient  '>
@@ -62,7 +62,7 @@ const About = () => {
               </div>                    
             </div>
             <div className='mb-4'>
-            <div className='font-primary text-sm tracking-[2px] mb-2 '>
+            <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Back End <br />
               </div>
               <div className='text-[40px] font-tertiary text-gradient  '>
@@ -71,7 +71,7 @@ const About = () => {
             </div>
             
             <div className='mb-4'>
-            <div className='font-primary text-sm tracking-[2px] mb-2 '>
+            <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Flutter <br />
               </div>
               <div className='text-[40px] font-tertiary text-gradient  '>
