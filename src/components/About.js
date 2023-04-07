@@ -49,7 +49,7 @@ const About = () => {
             <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Python <br />
               </div>
-              <div className='text-[40px] font-tertiary text-gradient '>
+              <div className='text-[40px] font-tertiary text-gradient mt-4'>
                 {inView?<CountUp start={0} end={85} duration={1}/> : null}%
               </div>                    
             </div>
@@ -57,7 +57,7 @@ const About = () => {
             <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Front End <br />
               </div>
-              <div className='text-[40px] font-tertiary text-gradient  '>
+              <div className='text-[40px] font-tertiary text-gradient mt-4 '>
                 {inView?<CountUp start={0} end={80} duration={1}/> : null}%
               </div>                    
             </div>
@@ -65,7 +65,7 @@ const About = () => {
             <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Back End <br />
               </div>
-              <div className='text-[40px] font-tertiary text-gradient  '>
+              <div className='text-[40px] font-tertiary text-gradient mt-4  '>
                 {inView?<CountUp start={0} end={75} duration={1}/> : null}%
               </div>                    
             </div>
@@ -74,7 +74,7 @@ const About = () => {
             <div className='font-primary text-sm tracking-[2px] mb-4 sm:mb-2 '>
                 Flutter <br />
               </div>
-              <div className='text-[40px] font-tertiary text-gradient  '>
+              <div className='text-[40px] font-tertiary text-gradient mt-4 '>
                 {inView?<CountUp start={0} end={50} duration={1}/> : null}%
               </div>                    
             </div>
