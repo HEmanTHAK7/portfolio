@@ -1,7 +1,7 @@
 import React from 'react';
 // import Image from '../assets/xvdjh.png'
 import Image from '../assets/abt2.png'
-import {FaGithub,FaLinkedin,FaInstagram} from 'react-icons/fa'
+import {FaGithub,FaLinkedin,FaInstagram,FaEnvelope} from 'react-icons/fa'
 import {TypeAnimation} from 'react-type-animation'
 import {motion} from 'framer-motion'
 import {fadeIn} from '../variants'
@@ -73,6 +73,9 @@ const Banner = () => {
             </a>
             <a href="https://instagram.com/he_man_th_a.k?igshid=ZDdkNTZiNTM=">
               <FaInstagram className='text-3xl' />
+            </a>
+            <a href = "mailto: hemanthbovikkanam@gmail.com">
+              <FaEnvelope className='text-3xl' />
             </a>
           </motion.div>
 
